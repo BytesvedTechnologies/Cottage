@@ -27,10 +27,6 @@ ByteVedas Cottages and Apartments are ideally located to explore Country as many
 | EdVenture Children's Museum | 8 km |
 | Chapin Memorial Park | 5 km |
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 ## Apartments Overview
 
